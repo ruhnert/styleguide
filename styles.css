@@ -1,8 +1,25 @@
 body {
-  padding: 0 4rem;
+padding: 0 4rem;
   
-  
+}
 
+h1 {
+  font-size: 26px;
+  font-family: 'Nunito Sans';
+
+}
+
+h2 {
+  font-size: 20px;
+  font-family: 'Poppins';
+}
+
+p {
+  /* font-family: 'Poppins';   */
+}
+
+li {
+  /* font-family: 'Poppins';   */
 }
 
 h3 {
@@ -51,6 +68,10 @@ h3 {
 
 .text-container {
   vertical-align: text-top;
+}
+
+.styles li, p {
+    font-family: 'Poppins';  
 }
 
 #color1 {
