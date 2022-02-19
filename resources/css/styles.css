@@ -43,7 +43,7 @@ body {
   vertical-align: text-top;
 }
 
-.styles li, p {
+.styles li, .styles p, .colors p {
     font-family: 'Poppins';  
 }
 
